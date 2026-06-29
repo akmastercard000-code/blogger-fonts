@@ -1,0 +1,59 @@
+.table-Sunday,
+.table-Sunday > th,
+.table-Sunday > td {
+  background-color: rgb(250, 120, 120); }
+
+.table-Monday,
+.table-Monday > th,
+.table-Monday > td {
+  background-color: rgb(250, 250, 110); }
+
+.table-Tuesday,
+.table-Tuesday > th,
+.table-Tuesday > td {
+  background-color: rgb(255, 130, 255); }
+
+.table-Wednesday,
+.table-Wednesday > th,
+.table-Wednesday > td {
+  background-color: rgb(110, 250, 110); }
+
+.table-Thursday,
+.table-Thursday > th,
+.table-Thursday > td {
+  background-color: rgb(250, 170, 75); }
+
+.table-Friday,
+.table-Friday > th,
+.table-Friday > td {
+  background-color: rgb(110, 200, 250); }
+
+.table-Saturday,
+.table-Saturday > th,
+.table-Saturday > td {
+  background-color: rgb(190, 90, 250); }
+
+.table-header,
+.table-header > th,
+.table-header > td {
+  background-color: rgb(55, 90, 250); }
+
+.table-body,
+.table-body > th,
+.table-body > td {
+  background-color: rgb(120, 150, 255); }
+
+.table-body1,
+.table-body1 > th,
+.table-body1 > td {
+  background-color: rgb(165, 185, 250); }
+
+.table-body2,
+.table-body2 > th,
+.table-body2 > td {
+  background-color: rgb(255, 255, 180); }
+
+.table-wrong,
+.table-wrong > th,
+.table-wrong > td {
+  background-color: rgb(250, 140, 140); }  
